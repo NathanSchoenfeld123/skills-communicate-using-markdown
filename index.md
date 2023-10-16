@@ -1,5 +1,5 @@
 # This is a test header
 
-``` javascript
-var hello = 'Hello there';
-```
+- [x] My name is Nathan
+- [x] My dog is Sadie
+- [ ] Example not checked
